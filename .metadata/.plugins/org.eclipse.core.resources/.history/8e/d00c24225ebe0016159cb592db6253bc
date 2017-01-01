@@ -1,0 +1,20 @@
+package com.challenge.tournament.request;
+
+import org.hibernate.validator.constraints.Length;
+import org.hibernate.validator.constraints.NotEmpty;
+
+public class LeagueRequest {
+	
+	
+   public LeagueRequest(String leagueName){
+	   this.name = leagueName;
+   }
+	
+	@NotEmpty
+	@Length(max = 40)
+	private String name;
+
+	public String getName() {
+		return name;
+	}
+}

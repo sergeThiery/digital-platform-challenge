@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.challenge.services.co&apos; to &apos;com.challenge.services.domain&apos;&#x0D;&#x0A;- Original project: &apos;challenge-services&apos;&#x0D;&#x0A;- Original element: &apos;challenge-services/src/main/com.challenge.services.co&apos;&#x0D;&#x0A;- Renamed element: &apos;challenge-services/src/main/com.challenge.services.domain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.challenge.services.co&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main&lt;com.challenge.services.co" name="com.challenge.services.domain" qualified="false" references="true" stamp="1474218230886" textual="false" version="1.0"/>
+</session>

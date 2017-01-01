@@ -1,0 +1,11 @@
+INDEX VERSION 1.127
+C:\Users\serge.akoa.owona\workspace_challenge_camerounais\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\380714164.index
+\challenge-tournaments\src\main\resources
+C:\Users\serge.akoa.owona\workspace_challenge_camerounais\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\784240823.index
+\challenge-web\src\main\resources
+C:\Users\serge.akoa.owona\workspace_challenge_camerounais\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1017816428.index
+\challenge-middletier\src\main\resources
+C:\Users\serge.akoa.owona\workspace_challenge_camerounais\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4076582359.index
+\challenge\src\main\resources
+C:\Users\serge.akoa.owona\workspace_challenge_camerounais\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1931789754.index
+\challenge-common\src\main\resources

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="challenge">
+        <property name="context-root" value="challenge"/>
+        <property name="java-output-path" value="/challenge/target/classes"/>
+    </wb-module>
+</project-modules>

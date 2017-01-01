@@ -1,0 +1,5 @@
+package com.challenge.tournaments.api;
+
+public class GamesController {
+
+}

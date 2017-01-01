@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Dec 30 15:34:06 CET 2016
+org.eclipse.jst.j2ee.server\:challenge-commons=WEB-INF/lib/challenge-commons-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:challenge-tournament=WEB-INF/lib/challenge-tournament-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\serge.akoa.owona\\.m2\\repository\\org\\springframework\\spring-web\\4.0.9.RELEASE\\spring-web-4.0.9.RELEASE.jar=WEB-INF/lib/spring-web-4.0.9.RELEASE.jar

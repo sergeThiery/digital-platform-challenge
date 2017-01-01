@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.challenge.engagement.api&apos; to &apos;com.challenge.marketing.api&apos;&#x0D;&#x0A;- Original project: &apos;challenge-web&apos;&#x0D;&#x0A;- Original element: &apos;challenge-web/src/main/java/com.challenge.engagement.api&apos;&#x0D;&#x0A;- Renamed element: &apos;challenge-web/src/main/java/com.challenge.marketing.api&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.challenge.engagement.api&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.challenge.engagement.api" name="com.challenge.marketing.api" qualified="false" references="true" stamp="1472452456755" textual="false" version="1.0"/>
+</session>

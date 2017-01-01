@@ -1,0 +1,5 @@
+INDEX VERSION 1.3+C:\Users\serge.akoa.owona\workspace_challenge_camerounais\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+934582169.index
+1017816428.index
+512071871.index
+2549955746.index

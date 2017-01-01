@@ -1,0 +1,7 @@
+package com.challenge.tournaments.api;
+
+import com.challenge.common.api.AbstractController;
+
+public class TournamentController extends AbstractController {
+
+}
